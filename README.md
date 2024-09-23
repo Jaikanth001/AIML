@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is dedicated to my college (Puspore) assignments in Artificial Intelligence and Machine Learning. It includes various projects and implementations of algorithms related to AI and ML.
+This repository is dedicated to my college assignments in Artificial Intelligence and Machine Learning. It includes various projects and implementations of algorithms related to AI and ML.
 
 ### Student Information
 
